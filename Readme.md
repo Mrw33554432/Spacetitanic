@@ -43,7 +43,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+### Old Project, won't be updates
 
 
 The project is coded with pure python, and the provided files are supposed to be executed via Jupyter Notebook.
